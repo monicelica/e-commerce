@@ -88,6 +88,7 @@ Posteriormente se realizó una encuesta específicamente para usuarios de la mar
 **Rango de edad**
 
 18 – 49 años
+
 **Sexo**
 
 89.8 % mujeres
@@ -112,22 +113,22 @@ La minoría respondió que comida y súper.
 
  Mejores precios:
 
-    Un 35% menciono que prefería comprar online porque muchas veces los productos tienen un mejor precio, más aparte en ocasiones hay una serie de promociones las cuales los anima a realizar las compras, de hecho hay usuarios que solo están al pendiente de las ofertas del mes.
+Un 35% menciono que prefería comprar online porque muchas veces los productos tienen un mejor precio, más aparte en ocasiones hay una serie de promociones las cuales los anima a realizar las compras, de hecho hay usuarios que solo están al pendiente de las ofertas del mes.
 
 Comodidad:
 
-    Un 40% menciona que les resulta más cómodo por varios aspectos como:
+Un 40% menciona que les resulta más cómodo por varios aspectos como:
 
-    El no tener que trasladarte de un lugar a otro, no dedicar tiempo al mismo traslado, se evitan el salir de su casa, puede tomarse el tiempo necesario para poder observar los productos y decidirse, se evita el interactuar con vendedores, muchas veces la tienda física está a una distancia considerable.
+El no tener que trasladarte de un lugar a otro, no dedicar tiempo al mismo traslado, se evitan el salir de su casa, puede tomarse el tiempo necesario para poder observar los productos y decidirse, se evita el interactuar con vendedores, muchas veces la tienda física está a una distancia considerable.
 
 Variedad de productos:
 
-    Un 28% menciona que en tiendas físicas en ocasiones no hay el producto, en otras ocasiones solo se vende en online, y otras tantas hay más variedad de productos.
+Un 28% menciona que en tiendas físicas en ocasiones no hay el producto, en otras ocasiones solo se vende en online, y otras tantas hay más variedad de productos.
 
 
 Valor agregado:
 
-    El resto comentaba que era porque prefería realizar sus pagos con tarjeta, también prefieren el leer comentarios o reseñas de productos, y que también cuando les llegaba el paquete era como una gran experiencia ya que lo sentían como un autorregalo y es un disfrute el abrirlo.
+El resto comentaba que era porque prefería realizar sus pagos con tarjeta, también prefieren el leer comentarios o reseñas de productos, y que también cuando les llegaba el paquete era como una gran experiencia ya que lo sentían como un autorregalo y es un disfrute el abrirlo.
 
 Plataformas que utilizan para realizar su compra online:
 
