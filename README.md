@@ -249,12 +249,8 @@ https://marvelapp.com/9e7gj4h/screen/47330715
 
 Testeo de Prototipo clickeable
 ====================
-https://drive.google.com/open?id=1HUROiLQ1dOPBW0TfCz1lDPgMQonDzIcv
-
-Entrevistas
-====================
 ### Cliente
-https://drive.google.com/open?id=1Y8ab1exp8_kVvpJo2t1xAmesGHM-j4X
+https://drive.google.com/open?id=1B5W9YkXNkZJUiLgMskecYCtDFXCkVOIU
 
 ### Usuario
 - Audios
@@ -276,4 +272,6 @@ Implementar una sección donde exista una atención al cliente, tanto para orien
 Filtrado: se implementara una sección para filtrar los productos ya sea por precio, color, tamaño, material, etc.
 
 Comentarios: agregar una sección donde puedas encontrar comentarios/ reseñas de usuarios que ya antes adquirieron algún producto o que ya están familiarizados con el mismo.
+
+
 
