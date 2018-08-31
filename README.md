@@ -274,5 +274,8 @@ Filtrado: se implementara una sección para filtrar los productos ya sea por pre
 
 Comentarios: agregar una sección donde puedas encontrar comentarios/ reseñas de usuarios que ya antes adquirieron algún producto o que ya están familiarizados con el mismo.
 
+Video loom
+=====
+https://drive.google.com/open?id=1B5W9YkXNkZJUiLgMskecYCtDFXCkVOIU
 
 
