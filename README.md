@@ -276,6 +276,6 @@ Comentarios: agregar una sección donde puedas encontrar comentarios/ reseñas d
 
 Video loom
 =====
-https://drive.google.com/open?id=1B5W9YkXNkZJUiLgMskecYCtDFXCkVOIU
+https://www.useloom.com/share/a0fde3c7edd740aca49688bc6f7b1055
 
 
